@@ -38,3 +38,8 @@ img {
   text-transform: uppercase;
   font-size: 10px;
 }
+label {
+  display: inline-block;
+  flex-direction: column;
+  width: 150px;
+}
